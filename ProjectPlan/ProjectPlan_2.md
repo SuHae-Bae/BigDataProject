@@ -3,14 +3,11 @@
 1인가구 집값비교/지역별 비교/변경 양상
 
 - 요즘 1인가구가 늘어나는 추세이니까 1인기준 주택 가격을 다 모아서 전세/월세/매매 별로 구분도 해보고, 지역별로도 구분해보고 했으면 좋겠다
-
 - 이 데이터를 통해서 집값도 예측해볼수 있음 좋겠음
-
 - 집 후기같은거 나오는것도 크롤링해와서 분석해보고싶음
-
-- 참고사이트: 네이버부동산( https://land.naver.com/ ), 네이버 부동산 크롤링( https://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb )
-
-  
+- ~~참고사이트: 네이버부동산( https://land.naver.com/ ), 네이버 부동산 크롤링( https://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb )~~
+- 네이버 부동산 매물검색 페이지가 개편된다고해서 그냥 다음 부동산( https://realty.daum.net/home/oneroom/map )을 긁어오기로 정함
+- (추가주제) 여유가 된다면 아파트들을 브렌드별로 묶어서 집값을 비교해보고싶음(하늘채, 래미안 등등등)
 
 **고려사항**
 
